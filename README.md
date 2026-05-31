@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7e9cca6e-d27e-4527-8ba9-3936f3ba21b8" />
+
+
+
 # Provenance Key
 
 Online gaming taught us a lesson: when bots become indistinguishable from players, trust must be earned through evidence.
